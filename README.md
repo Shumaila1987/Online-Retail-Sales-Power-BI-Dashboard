@@ -67,16 +67,18 @@ Phase 3 — Dashboard & Visualisation
 ​
 - Key metrics displayed: Total Sales, Total Quantity, Total Invoices
 - 📁 Repository Structure
-- ├── data/
+Online-Retail-Sales-PowerBI-Dashboard/
+├── data/
 │   ├── online_retail_II_raw.csv          # Original source data
 │   ├── online_retail_cleaned.csv         # Cleaned & prepared dataset
 │   └── online_retail_analysis.xlsx      # Working file
 ├── scripts/
-│   └── data_cleaning.py                 # Python cleaning script
+│   └── data_cleaning.py                 # Python cleaning code
 ├── powerbi/
-│   ├── Online_Retail_Analysis.pbix       # Power BI project file
-│   ├── Dashboard_Preview.png            # Dashboard screenshot
-│   └── Data_Model_Diagram.png          # Table relationships
+│   ├── Online_Retail_Analysis.pbix       # Full Power BI project file
+│   ├── Online_Retail_Analysis.png       # Dashboard screenshot
+│   └── Model_View.png                   # Data relationship diagram
+├── LICENSE
 └── README.md
 
 - ✅ Key Outcomes
