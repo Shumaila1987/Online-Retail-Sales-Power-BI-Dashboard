@@ -66,7 +66,9 @@ Phase 3 — Dashboard & Visualisation
 - Visualised sales trends and year-over-year performance
 ​
 - Key metrics displayed: Total Sales, Total Quantity, Total Invoices
-- 📁 Repository Structure
+## 📁 Repository Structure
+
+```
 Online-Retail-Sales-PowerBI-Dashboard/
 ├── data/
 │   ├── online_retail_II_raw.csv          # Original source data
@@ -80,6 +82,7 @@ Online-Retail-Sales-PowerBI-Dashboard/
 │   └── Model_View.png                   # Data relationship diagram
 ├── LICENSE
 └── README.md
+```
 
 - ✅ Key Outcomes
  
